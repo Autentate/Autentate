@@ -8,6 +8,4 @@ Languages, that i know
 
 Follow me on
 
-![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)(https://t.me/WebDeveloperUkraine)
-
-![Fiverr](https://img.shields.io/badge/-Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=00D678)(Fiverr link doesn't work now)
+![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)(https://t.me/WebFreelancerUkraine
